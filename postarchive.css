@@ -1,0 +1,11 @@
+body {
+    color:black;
+    background-color:antiquewhite;
+    font-family: 'Garamond';
+}
+
+footer {
+    color: rgb(101, 100, 100);
+    text-align: center;
+    font-size: small;
+}
