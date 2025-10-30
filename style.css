@@ -3,3 +3,8 @@ body {
     background-color:antiquewhite;
     color:black;
 }
+
+footer {
+    text-align: center;
+    color:rgb(101, 100, 100);
+}
